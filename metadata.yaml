@@ -1,11 +1,16 @@
 _repo: Forest-Lake-and-Prairie-Twenty-Years-of-Frontier-Life-in-Western-Canada1842-62_61658
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61658-h/images/img-cover.jpg
 creator:
   author:
     agent_name: McDougall, John
     gutenberg_agent_id: '51546'
     url: http://www.gutenberg.org/2009/agents/51546
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61658#Forest-Lake-and-Prairie-Twenty-Years-of-Frontier-Life-in-Western-Canada1842-62
 gutenberg_issued: '2020-03-23'
 gutenberg_type: Text
 identifiers:
